@@ -2,7 +2,7 @@
 
 A secure, private note-taking application with authentication, built with React, TypeScript, Node.js, Express, and Supabase.
 
-Demo Video - [](https://www.loom.com/share/d5ddc38735ee4c299fbbee8d41acf6f9)
+Demo Video - [https://www.loom.com/share/d5ddc38735ee4c299fbbee8d41acf6f9](https://www.loom.com/share/d5ddc38735ee4c299fbbee8d41acf6f9)
 
 ## Features Implemented
 
