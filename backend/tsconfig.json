@@ -10,7 +10,6 @@
     "removeComments": true,
     "noUnusedLocals": true,
     "noUnusedParameters": true,
-
     // Recommended Options
     "strict": true,
     "jsx": "react-jsx",
