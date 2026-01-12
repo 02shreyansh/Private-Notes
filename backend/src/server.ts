@@ -3,7 +3,7 @@ import cors from 'cors';
 import helmet from 'helmet';
 import rateLimit from 'express-rate-limit';
 import dotenv from 'dotenv';
-import notesRoutes from './routes/notes.js';
+import notesRoutes from './routes/notes';
 
 dotenv.config();
 

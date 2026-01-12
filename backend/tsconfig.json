@@ -1,22 +1,14 @@
 {
   "compilerOptions": {
-    "rootDir": "./src",
+    "target": "es2016", 
+    "experimentalDecorators": true, 
+    "module": "CommonJS",                           
+    "rootDir": "./src", 
     "outDir": "./dist",
-    "module": "nodenext",
-    "target": "esnext",
-    "lib": ["esnext"],
-    "types": ["node"],
-
-    "removeComments": true,
-    "noUnusedLocals": true,
-    "noUnusedParameters": true,
-    // Recommended Options
+    "esModuleInterop": true,
+    "forceConsistentCasingInFileNames": true, 
     "strict": true,
-    "jsx": "react-jsx",
-    "verbatimModuleSyntax": true,
-    "isolatedModules": true,
-    "noUncheckedSideEffectImports": true,
-    "moduleDetection": "force",
-    "skipLibCheck": true,
+    "strictPropertyInitialization": false,
+    "skipLibCheck": true    
   }
 }
